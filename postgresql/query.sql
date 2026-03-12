@@ -1,1 +1,3 @@
-SELECT * FROM ordersgit 
+SELECT * FROM MenuItems;
+SELECT * FROM Orders;
+
